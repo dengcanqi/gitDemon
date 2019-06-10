@@ -4,5 +4,7 @@ window.addEventListener("load", function () {
     btn.addEventListener("click", function () {
         // console.log(111);
         box.style.backgroundColor="skyblue"
+        box.style.width="500px"
+        box.style.height="500px"
     });
 })
